@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Raju Swaroop 👋
 
-<!--
-**swaroop7777-version/swaroop7777-version** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused software engineer building secure, event-driven systems with Java, Spring Boot, and Kafka. Based in Liverpool, UK.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Languages: Java, Python, JavaScript
+- Backend: Spring Boot, Spring Security, REST APIs
+- Data & Messaging: PostgreSQL, Kafka, JPA/Hibernate
+- Cloud & DevOps: AWS (S3), Docker, Flyway
+- Testing: JUnit, Testcontainers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **springboot-secure-backend-api** — JWT auth, RBAC, PostgreSQL, AWS S3 integration, Dockerised deployment
+- **springboot-kafka-transaction-processor** — Event-driven microservice processing high-volume transactions via Apache Kafka
+- **PharmAI-copilot** — AI-powered regulatory compliance assistant for pharma marketing content
+
+## 📫 Contact
+- GitHub: [@swaroop7777-version](https://github.com/swaroop7777-version)
