@@ -44,8 +44,8 @@ Backend-focused software engineer building secure, event-driven systems with Jav
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaroop7777-version&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop7777-version&layout=compact&theme=radical)
+![Followers](https://img.shields.io/github/followers/swaroop7777-version?label=Followers&style=for-the-badge&color=blue&logo=github)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-16-blue?style=for-the-badge&logo=github)
 
 ## 📫 Contact
 
